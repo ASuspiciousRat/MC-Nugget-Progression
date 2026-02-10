@@ -1,4 +1,4 @@
-package net.toxicgold180.rawnuggets.item;
+package net.suspiciousrat.rawnuggets.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
@@ -6,7 +6,7 @@ import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-import net.toxicgold180.rawnuggets.RawNuggets;
+import net.suspiciousrat.rawnuggets.RawNuggets;
 
 public class ModItems {
     public static final Item COPPER_NUGGET = registerItem("copper_nugget", new Item(new Item.Settings()));

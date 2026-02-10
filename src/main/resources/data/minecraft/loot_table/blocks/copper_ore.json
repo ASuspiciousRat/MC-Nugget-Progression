@@ -32,47 +32,9 @@
               "type": "minecraft:item",
               "functions": [
                 {
-                  "count": {
-                    "type": "minecraft:uniform",
-                    "max": 5,
-                    "min": 2
-                  },
+                  "count": 3,
                   "function": "minecraft:set_count",
                   "add": false
-                },
-                {
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops",
-                  "function": "minecraft:apply_bonus"
-                },
-                {
-                  "function": "minecraft:explosion_decay"
-                }
-              ],
-              "name": "minecraft:raw_copper"
-            }
-          ]
-        }
-      ],
-      "rolls": 1
-    },
-    {
-      "bonus_rolls": 0,
-      "entries": [
-        {
-          "type": "minecraft:alternatives",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "functions": [
-                {
-                  "add": false,
-                  "count": {
-                    "type": "minecraft:uniform",
-                    "max": 3,
-                    "min": 0
-                  },
-                  "function": "minecraft:set_count"
                 },
                 {
                   "enchantment": "minecraft:fortune",

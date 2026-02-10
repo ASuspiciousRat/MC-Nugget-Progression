@@ -1,4 +1,4 @@
-package net.toxicgold180.rawnuggets.datagen;
+package net.suspiciousrat.rawnuggets.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
@@ -7,7 +7,7 @@ import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.book.RecipeCategory;
 import net.minecraft.registry.RegistryWrapper;
-import net.toxicgold180.rawnuggets.item.ModItems;
+import net.suspiciousrat.rawnuggets.item.ModItems;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;

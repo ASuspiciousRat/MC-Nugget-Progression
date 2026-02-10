@@ -17,13 +17,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.toxicgold180.rawnuggets.RawNuggets"
+          "net.suspiciousrat.rawnuggets.RawNuggets"
 		],
 		"fabric-datagen": [
-			"net.toxicgold180.rawnuggets.RawNuggetsDataGenerator"
+          "net.suspiciousrat.rawnuggets.RawNuggetsDataGenerator"
 		],
 		"client": [
-			"net.toxicgold180.rawnuggets.RawNuggetsClient"
+          "net.suspiciousrat.rawnuggets.RawNuggetsClient"
 		]
 	},
 	"mixins": [

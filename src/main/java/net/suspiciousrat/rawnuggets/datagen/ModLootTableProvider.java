@@ -1,9 +1,9 @@
-package net.toxicgold180.rawnuggets.datagen;
+package net.suspiciousrat.rawnuggets.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricBlockLootTableProvider;
 import net.minecraft.block.Blocks;
-import net.toxicgold180.rawnuggets.item.ModItems;
+import net.suspiciousrat.rawnuggets.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.Enchantments;

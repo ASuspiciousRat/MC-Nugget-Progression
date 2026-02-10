@@ -1,8 +1,8 @@
-package net.toxicgold180.rawnuggets;
+package net.suspiciousrat.rawnuggets;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.toxicgold180.rawnuggets.item.ModItems;
+import net.suspiciousrat.rawnuggets.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

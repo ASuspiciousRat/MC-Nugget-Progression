@@ -1,4 +1,4 @@
-package net.toxicgold180.rawnuggets;
+package net.suspiciousrat.rawnuggets;
 
 import net.fabricmc.api.ClientModInitializer;
 

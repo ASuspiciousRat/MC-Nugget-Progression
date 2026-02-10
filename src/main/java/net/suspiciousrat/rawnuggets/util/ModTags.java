@@ -1,6 +1,6 @@
-package net.toxicgold180.rawnuggets.util;
+package net.suspiciousrat.rawnuggets.util;
 
-import net.toxicgold180.rawnuggets.RawNuggets;
+import net.suspiciousrat.rawnuggets.RawNuggets;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.registry.RegistryKeys;

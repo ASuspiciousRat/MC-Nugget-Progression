@@ -1,8 +1,9 @@
-package net.toxicgold180.rawnuggets;
+package net.suspiciousrat.rawnuggets;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
-import net.toxicgold180.rawnuggets.datagen.*;
+import net.suspiciousrat.rawnuggets.datagen.*;
+import net.suspiciousrat.rawnuggets.datagen.*;
 
 public class RawNuggetsDataGenerator implements DataGeneratorEntrypoint {
 	@Override
